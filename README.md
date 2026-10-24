@@ -63,8 +63,8 @@ pixel_mind_api/
 │   └── .gitkeep
 │
 ├── mlruns/              # criado pelo MLflow durante a execução (não versionado)
-├── models/              # métricas e URIs são gerados no treinamento
-│   └── .gitkeep 
+├── models/
+│   └── .gitkeep         # métricas e URIs são gerados no treinamento
 │
 ├── training/
 │   ├── __init__.py
@@ -147,7 +147,7 @@ Exemplo de resposta `200 OK`:
 }
 ```
 
-Se um modelo não estiver disponível, a resposta informa `unhealthy`. A inicialização também falha se os arquivos de treinamento não existirem.
+Se um modelo não estiver disponível, a resposta informa `degraded`. A inicialização também falha se os arquivos de treinamento não existirem.
 
 ### `POST /predict`
 
