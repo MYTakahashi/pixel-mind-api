@@ -40,7 +40,7 @@ HTML_PAGE = r"""<!doctype html>
 <html lang="pt-BR">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Pixel Mind API — Classificador de dígitos</title>
+<title>Pixel Mind — Classificador de dígitos</title>
 <style>
 body{font-family:Arial,sans-serif;max-width:900px;margin:32px auto;padding:0 18px;color:#20252b}
 h1{color:#2d6a4f}button{padding:10px 16px;background:#2d6a4f;color:white;border:0;border-radius:6px;cursor:pointer}
