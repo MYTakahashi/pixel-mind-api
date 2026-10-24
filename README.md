@@ -226,8 +226,8 @@ Exemplo ilustrativo de resposta `200 OK` (os valores variam conforme a imagem e 
 
 O vídeo explicativo detalhando os objetivos do sistema, a organização das tarefas, os desafios enfrentados e a tomada de decisões técnicas está disponível no link abaixo:
 <p align="center">
-    <a href="https://drive.google.com/file/d/18oSvRLT7pvU-CKVm_ydiwOxx-MMuLE3-/view?usp=drive_link" target="_blank">
-    <img src="imagem/video.png" width="650">
+    <a href="https://drive.google.com/file/d/1i6f8Xa_1D8BvFmoCTciYs55VdsLNO24W/view?usp=drive_link" target="_blank">
+    <img src="imagem/video.png" width="250">
     </a>
     <br>
     <em>Clique na imagem para assistir à apresentação deste projeto.</em>
